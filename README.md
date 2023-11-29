@@ -36,6 +36,7 @@
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#bulb-improvements">Road to Future Improvements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/JavierGSS" target="_blank">Author</a>
@@ -45,23 +46,34 @@
 
 ## :dart: About ##
 
-Describe your project
+Full-stack banking application, designed to connect clients with their bank accounts in the cloud. The app was created as part of my full-stack developer certification with MIT/xPRO. It leverages React and Bootstrap in the front end, Express as middleware, and a Dockerized MongoDB data store.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Login and create account functionalities\
+:heavy_check_mark: Deposit and withdraw functionalities\
+:heavy_check_mark: Balance display\
+:heavy_check_mark: Full transactional state UI\
+
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- Node.js (https://nodejs.org/en/)
+- React (https://pt-br.reactjs.org/)
+- Bootstrap (https://getbootstrap.com)
+- Express (https://expressjs.com)
+- MongoDB (https://www.mongodb.com)
+- Docker (https://www.docker.com)
+- Git (https://git-scm.com)
+- VSCode (https://code.visualstudio.com)
+- Studio3T (https://studio3t.com)
+- Postman (https://www.postman.com)
+- Nodemon (https://nodemon.io)
+- CORS (https://www.npmjs.com/package/cors)
+- JavaScript (https://www.javascript.com)
+- HTML (https://html.spec.whatwg.org)
 
 ## :white_check_mark: Requirements ##
 
@@ -87,10 +99,10 @@ $ yarn start
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/JavierGSS" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/JavierGSS" target="_blank">Baba</a>
 
 &#xa0;
 
