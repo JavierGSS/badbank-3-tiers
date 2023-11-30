@@ -37,6 +37,7 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#bulb-improvements">Road to Future Improvements</a> &#xa0; | &#xa0;
+  <a href="#camera-snapshots">Snapshots</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/JavierGSS" target="_blank">Author</a>
@@ -81,7 +82,13 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ## :bulb: Road to Future Improvements ##
 
-Authentication and authorization with Firebase for front- and back-end are a must. Several routes need to be linked to the DB. Styling is still heterogeneous and minimal. 
+Authentication and authorization with Firebase for front- and back-end are a must. Deposit, withdraw and balance still lacking in functionality. Several routes need to be linked to the DB. Styling is still heterogeneous and minimal. 
+
+## :camera: Snapshots ##
+<img src="./images readme/landingpage.png">
+<img src="./images readme/createaccount.png">
+<img src="./images readme/loginsuccess.png">
+<img src="./images readme/alldata.png">
 
 ## :checkered_flag: Starting ##
 
